@@ -11,6 +11,7 @@
   - The dashboard should also implement authentication and role-based authorisation features to prevent any unwanted visitors.
   - Only users with Admin and Editor account can upload Excel files to generate data dashboard.
   - User with admin account privilege can make configuration for how utilization of different facilities is calculated.
+  - User with admin account privilege can create account for Guest user or set to Editor account.
 - For this project, the our team decided to use tools and services:
   - Figma for user-interface design and idea prototype.
   - A framework called NextJs/Vercel for frontend development.
